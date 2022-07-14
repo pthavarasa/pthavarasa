@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 
 *My Github stats*
 
-![Sankha's github stats](https://github-readme-stats.vercel.app/api?username=pthavarasa&show_icons=true&theme=radical) 
+![Sankha's github stats](https://github-readme-stats.vercel.app/api?username=pthavarasa&show_icons=true&theme=radical)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pthavarasa&layout=compact&show_icons=true&theme=radical)
 
 
