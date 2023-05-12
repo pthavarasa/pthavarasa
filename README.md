@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pthavarasa&layout=compact&show_icons=true&theme=radical)
 
+![](https://komarev.com/ghpvc/?username=pthavarasa)
 
 🔭 I’m currently working on - *Data Science & Machine Learning.*
 
