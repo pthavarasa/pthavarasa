@@ -23,17 +23,11 @@ Here are some ideas to get you started:
 - My profile in <a href="https://www.linkedin.com/in/pthavarasa/">LinkedIn</a> 💼 
 - My website <a href="https://thavarasa.name/">thavarasa.name</a> 📹 ✍🏾
 <!-- 
-- My technical blogs in <a href="https://medium.com/@sankhasubhramondal18">Medium</a> 🏓
+- My technical blogs in <a href="https://medium.com/@pthavarasa">Medium</a> 🏓
 - My contribution in Data Science in <a href="https://www.kaggle.com/pthavarasa">Kaggle</a>🖥💻 
-- My updates in <a href="https://twitter.com/sankha_subhra18">Twiiter</a> 💬</h5>
+- My updates in <a href="https://twitter.com/pthavarasa">Twiiter</a> 💬</h5>
 -->
-
-*My Github stats*
-
-![Sankha's github stats](https://github-readme-stats.vercel.app/api?username=pthavarasa&show_icons=true&theme=radical)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pthavarasa&layout=compact&show_icons=true&theme=radical)
+</h5>
 
 ![](https://komarev.com/ghpvc/?username=pthavarasa)
 
